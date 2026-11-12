@@ -20,3 +20,5 @@ The program changes the font size of the displayed text.
 # Activity 5: Control RGB LEDs
 
 The program changes the RGB LED colours to red, green, and blue.
+## Useful Link
+(https://support.makeblock.com/hc/en-us/sections/1500001036301)
