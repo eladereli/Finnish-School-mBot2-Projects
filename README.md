@@ -1,24 +1,37 @@
-# Finnish-School-mBot2-Projects
 # Our mBot2 Programming Activities
 
-# Activity 1: Display your name
+## Introduction
+These activities help us learn how to program mBot2 and use its different functions.
 
+## Five Programming Activities
+
+### 1. Display Your Name
 The program displays my name on the mBot2 screen.
 
-# Activity 2: Display surname and grade
-
+### 2. Display Surname and Grade
 The program displays my surname and grade on separate lines.
 
-# Activity 3: Clear the screen
-
+### 3. Clear the Screen
 The program clears all text from the mBot2 screen.
 
-# Activity 4: Change font size
-
+### 4. Change Font Size
 The program changes the font size of the displayed text.
 
-# Activity 5: Control RGB LEDs
+### 5. Control RGB LEDs
+The program controls the RGB LEDs to show red, green, and blue.
 
-The program changes the RGB LED colours to red, green, and blue.
+## What Do We Learn?
+These activities help us practise different programming skills.
+
+We learn how to:
+- Display text.
+- Clear the screen.
+- Change font size.
+- Control LED colours.
+
+**These activities** help us understand how to give instructions to a robot.
+
+*Practising programming helps us improve our skills.*
+
 ## Useful Link
-(https://support.makeblock.com/hc/en-us/sections/1500001036301)
+[Learn more about mBot2](https://www.makeblock.com/products/mbot2)
